@@ -9,3 +9,6 @@ I wrote this paper about an interesting family of functions which I found useful
 
 ## Areas of regular n-gons in Euclidean space
 This paper follows a very brief derivation of a simple formula used to find the area of any regular n-gon in Euclidean space. Although this formula is simple, I have not seen it before, so I thought it would be interesting to write about. Additionally, I also used this small project as a medium to practice using set theory - which I have only recently studied as of when I am writing this.
+
+## Independent Derivation of the General Closed Form of Power Sums
+This paper follows a derivation of the equation providing the closed form of all power sums (where the power is a non-negative integer). The derivation essentially models these summations as non-homogeneous recurrence relations before employing the family of polynomial-exponential product functions from my previous work to determine the closed form of these recurrence relations, yielding the general closed form for power sums.
